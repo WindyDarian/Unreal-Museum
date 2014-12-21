@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illusion", "Illusion\Illusion\Illusion.csproj", "{94D8DA39-0984-4FFE-9B45-0934A4B0FFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IllusionContent", "Illusion\IllusionContent\IllusionContent.contentproj", "{5DB2B5AD-7FBE-443A-AC36-5D67D4BB6DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illusion.KinectSupport", "Illusion.KinectSupport\Illusion.KinectSupport.csproj", "{A03BAE69-9416-42A1-AC07-6D18CAACD2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Illusion.Scene", "Illusion.Scene\Illusion.Scene.csproj", "{1F908835-B4FF-4EAD-A8BB-D75FDEC53272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AREngine", "AREngine\AREngine.csproj", "{C0158325-0200-4214-90E3-DB9AD5811EB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A483A8B-245B-4595-9BCF-E4E233B2C941}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D8DA39-0984-4FFE-9B45-0934A4B0FFD7}.Debug|x86.ActiveCfg = Debug|x86
+		{94D8DA39-0984-4FFE-9B45-0934A4B0FFD7}.Debug|x86.Build.0 = Debug|x86
+		{94D8DA39-0984-4FFE-9B45-0934A4B0FFD7}.Release|x86.ActiveCfg = Release|x86
+		{94D8DA39-0984-4FFE-9B45-0934A4B0FFD7}.Release|x86.Build.0 = Release|x86
+		{5DB2B5AD-7FBE-443A-AC36-5D67D4BB6DA4}.Debug|x86.ActiveCfg = Debug|x86
+		{5DB2B5AD-7FBE-443A-AC36-5D67D4BB6DA4}.Release|x86.ActiveCfg = Release|x86
+		{A03BAE69-9416-42A1-AC07-6D18CAACD2B5}.Debug|x86.ActiveCfg = Debug|x86
+		{A03BAE69-9416-42A1-AC07-6D18CAACD2B5}.Debug|x86.Build.0 = Debug|x86
+		{A03BAE69-9416-42A1-AC07-6D18CAACD2B5}.Release|x86.ActiveCfg = Release|x86
+		{A03BAE69-9416-42A1-AC07-6D18CAACD2B5}.Release|x86.Build.0 = Release|x86
+		{1F908835-B4FF-4EAD-A8BB-D75FDEC53272}.Debug|x86.ActiveCfg = Debug|x86
+		{1F908835-B4FF-4EAD-A8BB-D75FDEC53272}.Debug|x86.Build.0 = Debug|x86
+		{1F908835-B4FF-4EAD-A8BB-D75FDEC53272}.Release|x86.ActiveCfg = Release|x86
+		{1F908835-B4FF-4EAD-A8BB-D75FDEC53272}.Release|x86.Build.0 = Release|x86
+		{C0158325-0200-4214-90E3-DB9AD5811EB9}.Debug|x86.ActiveCfg = Debug|x86
+		{C0158325-0200-4214-90E3-DB9AD5811EB9}.Debug|x86.Build.0 = Debug|x86
+		{C0158325-0200-4214-90E3-DB9AD5811EB9}.Release|x86.ActiveCfg = Release|x86
+		{C0158325-0200-4214-90E3-DB9AD5811EB9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
